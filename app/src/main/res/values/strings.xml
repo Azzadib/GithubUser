@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="full_name">Full Name</string>
+    <string name="repository_logo">repository logo</string>
+    <string name="repo_num">0</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="splash_logo">Splash Logo</string>
+    <string name="splash_text">Submission App</string>
+    <string name="username">Username</string>
+    <string name="separator">|</string>
+    <string name="zero">0</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repositories">Repo(s)</string>
+    <string name="search_result_will_shown_here">Search result will shown here</string>
+    <string name="can_t_find_username">Can\'t find Username</string>
+    <string name="not_followed_by_anyone">Not followed by anyone</string>
+    <string name="follow_no_one">Not following anyone</string>
+</resources>
