@@ -1,2 +1,2 @@
 # GithubUser
-Android apps example that shows users of GitHub
+Android apps example that shows users of GitHub from GitHub API
